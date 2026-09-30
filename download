@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+audit_findings.db
+compliance_report.csv
+compliance_report.html
+.venv/
+venv/
